@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const SignUp = () => { 
     return ( 
-    <div style={{ backgroundColor: 'rgb(209, 247, 255)', height: 100% }}>
+    <div style={{ backgroundColor: 'rgb(209, 247, 255)', height: "100%" }}>
         <div id="nav" className="container" style={{ height: '150px' }}></div> 
         <div className="row"> 
             <div className="col-lg-4"></div> 
